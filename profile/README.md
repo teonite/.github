@@ -6,7 +6,8 @@ responsibility for building your product. We believe [teonite is the solution (c
 Our open-source products:
 
 - [defguard](https://github.com/defguard/defguard/) - security *swiss army knife* (Identity & VPN Provider, MFA, Yubikey, Web3).
-- [Rudder](https://rudder.foundation) - Rust & Webassembly for finance/web3 solutions
+- [constellations t-shirts](https://github.com/teonite/t-shirts) - first (probably) in the world open-source t-shirts with start constellations
+- [rudder](https://rudder.foundation) - Rust & Webassembly for finance/web3 solutions
 
 You can contact us by:
 - email: hi@teonite.com
