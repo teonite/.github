@@ -10,6 +10,8 @@ Our open-source products:
 - [constellations t-shirts](https://github.com/teonite/t-shirts) - first (probably) in the world open-source t-shirts with star constellations
 - [rudder](https://rudder.foundation) - Rust & Webassembly for finance/web3 solutions
 
+Below you can also find smaller but useful projects that are *pinned* - and a lot of projects we had published several years ago but no longer maintain.
+
 You can contact us by:
 - email: hi@teonite.com
 - Matrix: [#hi:teonite.com](https://matrix.to/#/#hi:teonite.com)
