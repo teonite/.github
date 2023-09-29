@@ -8,6 +8,7 @@ Our open-source products:
 - [defguard](https://github.com/defguard/defguard/) - security *swiss army knife* (OpenID identity & Wireguard VPN Provider, MFA, Yubikey, Web3)
 - [avanguard](https://github.com/defguard/avanguard/) - OpenID Connect Web3 Identity Provider
 - [sdr-mobile](https://gitlab.com/librespacefoundation/sdrmakerspace/sdr-mobile) - LibreSpace & European Space Agency funded project, for developing Software Defined Radio Sattelite communication on mobile devices
+- [wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 - [constellations t-shirts](https://github.com/teonite/t-shirts) - first (probably) in the world open-source t-shirts with star constellations
 - [rudder](https://rudder.foundation) - Rust & Webassembly for finance/web3 solutions
 
